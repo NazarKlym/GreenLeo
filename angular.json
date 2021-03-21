@@ -123,6 +123,11 @@
           }
         }
       }
-    }},
-  "defaultProject": "green-lion"
+    }
+  },
+  "defaultProject": "green-lion",
+  "cli": {
+    "analytics": false,
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
